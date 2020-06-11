@@ -7,7 +7,8 @@ IT Career Path ⬆️
 ### Development 
   * Mobile
     * Sample
-
+  * Web
+    *
 
 
 ### Network 
