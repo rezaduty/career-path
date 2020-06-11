@@ -5,10 +5,12 @@ IT Career Path ⬆️
 ⚠️ Education and Certification are Optional
 
 ### Development 
-  * Mobile
-    * Sample
   * Web
-    *
+    * [Sample](https://github.com/rezaduty/career-path/blob/master/Development/Web/)
+  * Mobile
+    * [Sample](https://github.com/rezaduty/career-path/blob/master/Development/Mobile/)
+  * System
+    * [Sample](https://github.com/rezaduty/career-path/blob/master/Development/System/)
 
 
 ### Network 
