@@ -5,8 +5,9 @@ IT Career Path ⬆️
 ⚠️ Education and Certification are Optional
 
 ### Development 
-   * Mobile
-   ** 
+  * Mobile
+    * Sample
+
 
 
 ### Network 
