@@ -38,7 +38,7 @@ $73K <= $100K <= $130K
  * https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions
 
 
-# Resources
+# Training Resources
   * https://devskiller.com/screen-security-engineer/
 
 
