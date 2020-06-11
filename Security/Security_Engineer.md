@@ -31,9 +31,7 @@ Information systems security engineers (ISSE), help businesses keep sensitive da
 
 
 # Job Salary
-Low -> $73K
-Average -> $100K
-High -> $130K
+$73K <= $100K <= $130K
 
 
 # Interview Questions
