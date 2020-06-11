@@ -22,8 +22,23 @@ Information systems security engineers (ISSE), help businesses keep sensitive da
 * Ability to clearly articulate complex concepts (both written and verbally).
 * Ability, understanding, and usage of active listening skills (especially with customers!).
 
+
+# Education
+  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+
+
+# Certification
+  * CISSP
+
+
 # Job Salary
 
 Low -> $73K
 Average -> $100K
 High -> $130K
+
+
+# Resources
+  * https://devskiller.com/screen-security-engineer/
+
+
