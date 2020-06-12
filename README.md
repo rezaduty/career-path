@@ -8,7 +8,7 @@ IT Career Path ⬆️
   * Web
     * [Sample](https://github.com/rezaduty/career-path/blob/master/Development/Web/)
   * Mobile
-    * [Sample](https://github.com/rezaduty/career-path/blob/master/Development/Mobile/)
+    * [Android Developer](https://github.com/rezaduty/career-path/blob/master/Development/Mobile/Android-Developer.md)
   * System
     * [Sample](https://github.com/rezaduty/career-path/blob/master/Development/System/)
 
